@@ -1,6 +1,6 @@
 # WDV 4416
 
-## Integration Tests Assignment
+## Load Testing Assignment
 
 ### To run application
 
